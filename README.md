@@ -12,7 +12,7 @@
 >- scipy==1.9.1
 ### File Introduction
 1. model.py
-> This file contains the code of LightGCL.
+> This file contains the code of LTS-LightGCL.
 2. sanfm.py
 > This file contains the code of SANFM.
 3. utils.py
